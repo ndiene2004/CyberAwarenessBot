@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ndiene Mukondeleli\\Desktop\\CybersecurityChatbot\\CyberAwarenessBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9A865-AF3D-4EB0-AA87-45920989C690}|CyberAwarenessBot\\CyberAwarenessBot.csproj|c:\\users\\ndiene mukondeleli\\desktop\\cybersecuritychatbot\\cyberawarenessbot\\cyberawarenessbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28F9A865-AF3D-4EB0-AA87-45920989C690}|CyberAwarenessBot\\CyberAwarenessBot.csproj|solutionrelative:cyberawarenessbot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9A865-AF3D-4EB0-AA87-45920989C690}|CyberAwarenessBot\\CyberAwarenessBot.csproj|c:\\users\\ndiene mukondeleli\\desktop\\cybersecuritychatbot\\cyberawarenessbot\\cyberawarenessbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F9A865-AF3D-4EB0-AA87-45920989C690}|CyberAwarenessBot\\CyberAwarenessBot.csproj|solutionrelative:cyberawarenessbot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Ndiene Mukondeleli\\Desktop\\CybersecurityChatbot\\CyberAwarenessBot\\CyberAwarenessBot\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CyberAwarenessBot\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Ndiene Mukondeleli\\Desktop\\CybersecurityChatbot\\CyberAwarenessBot\\CyberAwarenessBot\\MainWindow.xaml",
+              "RelativeToolTip": "CyberAwarenessBot\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T09:07:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Ndiene Mukondeleli\\Desktop\\CybersecurityChatbot\\CyberAwarenessBot\\CyberAwarenessBot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberAwarenessBot\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Ndiene Mukondeleli\\Desktop\\CybersecurityChatbot\\CyberAwarenessBot\\CyberAwarenessBot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CyberAwarenessBot\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:07:41.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
